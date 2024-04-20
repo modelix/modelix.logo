@@ -41,26 +41,26 @@
       <line fill="none" stroke="#00457c" stroke-width="20" x1="275" y1="350" x2="225" y2="150"/>
 
       <!-- X (border) -->
-      <ellipse fill="#545454" stroke="#4d3826" stroke-width="8" cx="340" cy="250" rx="25" ry="25"/>
-      <ellipse fill="#545454" stroke="#4d3826" stroke-width="8" cx="340" cy="450" rx="25" ry="25"/>
-      <ellipse fill="#545454" stroke="#4d3826" stroke-width="8" cx="400" cy="350" rx="25" ry="25"/>
-      <ellipse fill="#545454" stroke="#4d3826" stroke-width="8" cx="460" cy="250" rx="25" ry="25"/>
-      <ellipse fill="#545454" stroke="#4d3826" stroke-width="8" cx="460" cy="450" rx="25" ry="25"/>
-      <line fill="none" stroke="#4d3826" x1="340" y1="250" x2="400" y2="350" stroke-width="28"/>
-      <line fill="none" stroke="#4d3826" x1="460" y1="250" x2="400" y2="350" stroke-width="28"/>
-      <line fill="none" stroke="#4d3826" x1="340" y1="450" x2="400" y2="350" stroke-width="28"/>
-      <line fill="none" stroke="#4d3826" x1="460" y1="450" x2="400" y2="350" stroke-width="28"/>
+      <ellipse fill="#545454" stroke="#36424d" stroke-width="8" cx="340" cy="250" rx="25" ry="25"/>
+      <ellipse fill="#545454" stroke="#36424d" stroke-width="8" cx="340" cy="450" rx="25" ry="25"/>
+      <ellipse fill="#545454" stroke="#36424d" stroke-width="8" cx="400" cy="350" rx="25" ry="25"/>
+      <ellipse fill="#545454" stroke="#36424d" stroke-width="8" cx="460" cy="250" rx="25" ry="25"/>
+      <ellipse fill="#545454" stroke="#36424d" stroke-width="8" cx="460" cy="450" rx="25" ry="25"/>
+      <line fill="none" stroke="#36424d" x1="340" y1="250" x2="400" y2="350" stroke-width="28"/>
+      <line fill="none" stroke="#36424d" x1="460" y1="250" x2="400" y2="350" stroke-width="28"/>
+      <line fill="none" stroke="#36424d" x1="340" y1="450" x2="400" y2="350" stroke-width="28"/>
+      <line fill="none" stroke="#36424d" x1="460" y1="450" x2="400" y2="350" stroke-width="28"/>
 
       <!-- X -->
-      <ellipse fill="#7d5b3e" stroke="#545454" stroke-width="0" cx="340" cy="250" rx="25" ry="25"/>
-      <ellipse fill="#7d5b3e" stroke="#545454" stroke-width="0" cx="340" cy="450" rx="25" ry="25"/>
-      <ellipse fill="#7d5b3e" stroke="#545454" stroke-width="0" cx="400" cy="350" rx="25" ry="25"/>
-      <ellipse fill="#7d5b3e" stroke="#545454" stroke-width="0" cx="460" cy="250" rx="25" ry="25"/>
-      <ellipse fill="#7d5b3e" stroke="#545454" stroke-width="0" cx="460" cy="450" rx="25" ry="25"/>
-      <line fill="none" stroke="#7d5b3e" x1="340" y1="250" x2="400" y2="350" stroke-width="20"/>
-      <line fill="none" stroke="#7d5b3e" x1="460" y1="250" x2="400" y2="350" stroke-width="20"/>
-      <line fill="none" stroke="#7d5b3e" x1="340" y1="450" x2="400" y2="350" stroke-width="20"/>
-      <line fill="none" stroke="#7d5b3e" x1="460" y1="450" x2="400" y2="350" stroke-width="20"/>
+      <ellipse fill="#576c7d" stroke="#545454" stroke-width="0" cx="340" cy="250" rx="25" ry="25"/>
+      <ellipse fill="#576c7d" stroke="#545454" stroke-width="0" cx="340" cy="450" rx="25" ry="25"/>
+      <ellipse fill="#576c7d" stroke="#545454" stroke-width="0" cx="400" cy="350" rx="25" ry="25"/>
+      <ellipse fill="#576c7d" stroke="#545454" stroke-width="0" cx="460" cy="250" rx="25" ry="25"/>
+      <ellipse fill="#576c7d" stroke="#545454" stroke-width="0" cx="460" cy="450" rx="25" ry="25"/>
+      <line fill="none" stroke="#576c7d" x1="340" y1="250" x2="400" y2="350" stroke-width="20"/>
+      <line fill="none" stroke="#576c7d" x1="460" y1="250" x2="400" y2="350" stroke-width="20"/>
+      <line fill="none" stroke="#576c7d" x1="340" y1="450" x2="400" y2="350" stroke-width="20"/>
+      <line fill="none" stroke="#576c7d" x1="460" y1="450" x2="400" y2="350" stroke-width="20"/>
     </g>
   </g>
 </svg>
