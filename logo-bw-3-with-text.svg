@@ -1,0 +1,84 @@
+<svg width="1205" height="320" xmlns="http://www.w3.org/2000/svg">
+<!--  <rect fill="#222" x="0" y="0" width="100%" height="100%" />-->
+
+<!--  <rect fill="none" stroke-width="60" x="0" y="0" width="100%" height="320" stroke="#000" />
+  <rect fill="none" stroke-width="55" x="0" y="0" width="100%" height="320" stroke="#888" />
+  <rect fill="none" stroke-width="50" x="0" y="0" width="100%" height="320" stroke="#00f" />
+  <rect fill="none" stroke-width="45" x="0" y="0" width="100%" height="320" stroke="#888" />
+  <rect fill="none" stroke-width="40" x="0" y="0" width="100%" height="320" stroke="#000" />
+  <rect fill="none" stroke-width="35" x="0" y="0" width="100%" height="320" stroke="#888" />
+  <rect fill="none" stroke-width="30" x="0" y="0" width="100%" height="320" stroke="#000" />
+  <rect fill="none" stroke-width="25" x="0" y="0" width="100%" height="320" stroke="#888" />
+  <rect fill="none" stroke-width="20" x="0" y="0" width="100%" height="320" stroke="#000" />
+  <rect fill="none" stroke-width="15" x="0" y="0" width="100%" height="320" stroke="#888" />
+  <rect fill="none" stroke-width="10" x="0" y="0" width="100%" height="320" stroke="#000" />
+  <rect fill="none" stroke-width="5" x="0" y="0" width="100%" height="320" stroke="#888" />-->
+  <g transform="translate(-53, -98)">
+    <g transform="scale(0.6, 0.6) translate(100, 180)">
+      <g transform="translate(-20, 0)">
+        <!-- tree root (border) -->
+        <line stroke="#fff" x1="125" y1="150" x2="275" y2="50" stroke-width="28"/>
+        <line stroke="#fff" x1="275" y1="50" x2="225" y2="150" stroke-width="28"/>
+        <line stroke="#fff" x1="275" y1="50" x2="340" y2="250" stroke-width="28"/>
+        <line stroke="#fff" x1="460" y1="250" x2="275" y2="50" stroke-width="28"/>
+        <ellipse stroke="#fff" stroke-width="8" cx="275" cy="50" rx="25" ry="25"/>
+
+        <!-- tree root -->
+        <line fill="none" stroke="#7ba8a1" x1="125" y1="150" x2="275" y2="50" stroke-width="20"/>
+        <line fill="none" stroke="#7ba8a1" x1="275" y1="50" x2="225" y2="150" stroke-width="20"/>
+        <line fill="none" stroke="#7ba8a1" x1="275" y1="50" x2="340" y2="250" stroke-width="20"/>
+        <line fill="none" stroke="#7ba8a1" x1="460" y1="250" x2="275" y2="50" stroke-width="20"/>
+        <ellipse fill="#7ba8a1" stroke="#7ba8a1" stroke-width="0" cx="275" cy="50" rx="25" ry="25"/>
+
+        <!-- M (border) -->
+        <ellipse stroke="#fff" stroke-width="8" cx="75" cy="350" rx="25" ry="25"/>
+        <ellipse stroke="#fff" stroke-width="8" cx="175" cy="350" rx="25" ry="25"/>
+        <ellipse stroke="#fff" stroke-width="8" cx="275" cy="350" rx="25" ry="25"/>
+        <ellipse stroke="#fff" stroke-width="8" cx="125" cy="150" rx="25" ry="25"/>
+        <ellipse stroke="#fff" stroke-width="8" cx="225" cy="150" rx="25" ry="25"/>
+        <line stroke="#fff" x1="75" y1="350" x2="125" y2="150" stroke-width="28"/>
+        <line stroke="#fff" stroke-width="28" x1="125" y1="150" x2="175" y2="350"/>
+        <line stroke="#fff" stroke-width="28" x1="225" y1="150" x2="175" y2="350"/>
+        <line stroke="#fff" stroke-width="28" x1="275" y1="350" x2="225" y2="150"/>
+
+        <!-- M -->
+        <ellipse fill="#000" cx="75" cy="350" rx="25" ry="25"/>
+        <ellipse fill="#000" cx="175" cy="350" rx="25" ry="25"/>
+        <ellipse fill="#000" cx="275" cy="350" rx="25" ry="25"/>
+        <ellipse fill="#000" cx="125" cy="150" rx="25" ry="25"/>
+        <ellipse fill="#000" cx="225" cy="150" rx="25" ry="25"/>
+        <line fill="none" stroke="#000" stroke-width="20" x1="75" y1="350" x2="125" y2="150"/>
+        <line fill="none" stroke="#000" stroke-width="20" x1="125" y1="150" x2="175" y2="350"/>
+        <line fill="none" stroke="#000" stroke-width="20" x1="225" y1="150" x2="175" y2="350"/>
+        <line fill="none" stroke="#000" stroke-width="20" x1="275" y1="350" x2="225" y2="150"/>
+
+        <!-- X (border) -->
+        <ellipse stroke="#fff" stroke-width="8" cx="340" cy="250" rx="25" ry="25"/>
+        <ellipse stroke="#fff" stroke-width="8" cx="340" cy="450" rx="25" ry="25"/>
+        <ellipse stroke="#fff" stroke-width="8" cx="400" cy="350" rx="25" ry="25"/>
+        <ellipse stroke="#fff" stroke-width="8" cx="460" cy="250" rx="25" ry="25"/>
+        <ellipse stroke="#fff" stroke-width="8" cx="460" cy="450" rx="25" ry="25"/>
+        <line stroke="#fff" x1="340" y1="250" x2="400" y2="350" stroke-width="28"/>
+        <line stroke="#fff" x1="460" y1="250" x2="400" y2="350" stroke-width="28"/>
+        <line stroke="#fff" x1="340" y1="450" x2="400" y2="350" stroke-width="28"/>
+        <line stroke="#fff" x1="460" y1="450" x2="400" y2="350" stroke-width="28"/>
+
+        <!-- X -->
+        <ellipse fill="#000" cx="340" cy="250" rx="25" ry="25"/>
+        <ellipse fill="#000" cx="340" cy="450" rx="25" ry="25"/>
+        <ellipse fill="#000" cx="400" cy="350" rx="25" ry="25"/>
+        <ellipse fill="#000" cx="460" cy="250" rx="25" ry="25"/>
+        <ellipse fill="#000" cx="460" cy="450" rx="25" ry="25"/>
+        <line stroke="#000" x1="340" y1="250" x2="400" y2="350" stroke-width="20"/>
+        <line stroke="#000" x1="460" y1="250" x2="400" y2="350" stroke-width="20"/>
+        <line stroke="#000" x1="340" y1="450" x2="400" y2="350" stroke-width="20"/>
+        <line stroke="#000" x1="460" y1="450" x2="400" y2="350" stroke-width="20"/>
+      </g>
+    </g>
+
+    <!--    <text transform="scale(1, 1) translate(7, 0)" font-family="Montserrat" font-weight="700" font-size="200" y="330" x="350" fill="#00457c" stroke="#002a4d" stroke-width="5">Modelix</text>-->
+    <!--    <text transform="scale(1, 1)" font-family="Montserrat" font-weight="700" font-size="200" y="330" x="350" fill="#598ab3">Modelix</text>-->
+    <text transform="scale(1, 1) translate(7, 0)" font-family="Montserrat" font-weight="700" font-size="200" y="330" x="350" fill="#000" stroke-width="8" stroke="#fff">Modelix</text>
+    <text transform="scale(1, 1) translate(7, 0)" font-family="Montserrat" font-weight="700" font-size="200" y="330" x="350" fill="#000">Modelix</text>
+  </g>
+</svg>
