@@ -12,11 +12,11 @@
       <ellipse fill="#7ba8a1" stroke="#384d49" stroke-width="8" cx="275" cy="50" rx="25" ry="25"/>-->
 
       <!-- tree root -->
-      <line fill="none" stroke="#7ba8a1" x1="125" y1="150" x2="275" y2="50" stroke-width="20"/>
-      <line fill="none" stroke="#7ba8a1" x1="275" y1="50" x2="225" y2="150" stroke-width="20"/>
-      <line fill="none" stroke="#7ba8a1" x1="275" y1="50" x2="340" y2="250" stroke-width="20"/>
-      <line fill="none" stroke="#7ba8a1" x1="460" y1="250" x2="275" y2="50" stroke-width="20"/>
-      <ellipse fill="#7ba8a1" stroke="#7ba8a1" stroke-width="0" cx="275" cy="50" rx="25" ry="25"/>
+      <line fill="none" stroke="#7ba8a1" x1="125" y1="150" x2="275" y2="50" stroke-width="25"/>
+      <line fill="none" stroke="#7ba8a1" x1="275" y1="50" x2="225" y2="150" stroke-width="25"/>
+      <line fill="none" stroke="#7ba8a1" x1="275" y1="50" x2="340" y2="250" stroke-width="25"/>
+      <line fill="none" stroke="#7ba8a1" x1="460" y1="250" x2="275" y2="50" stroke-width="25"/>
+      <ellipse fill="#7ba8a1" stroke="#7ba8a1" stroke-width="8" cx="275" cy="50" rx="25" ry="25"/>
 
       <!-- M (border) -->
 <!--      <ellipse fill="#00457c" stroke="#002a4d" stroke-width="8" cx="75" cy="350" rx="25" ry="25"/>
@@ -30,15 +30,15 @@
       <line fill="none" stroke="#002a4d" stroke-width="28" x1="275" y1="350" x2="225" y2="150"/>-->
 
       <!-- M -->
-      <ellipse fill="#00457c" stroke="#00457c" stroke-width="0" cx="75" cy="350" rx="25" ry="25"/>
-      <ellipse fill="#00457c" stroke="#00457c" stroke-width="0" cx="175" cy="350" rx="25" ry="25"/>
-      <ellipse fill="#00457c" stroke="#00457c" stroke-width="0" cx="275" cy="350" rx="25" ry="25"/>
-      <ellipse fill="#00457c" stroke="#00457c" stroke-width="0" cx="125" cy="150" rx="25" ry="25"/>
-      <ellipse fill="#00457c" stroke="#00457c" stroke-width="0" cx="225" cy="150" rx="25" ry="25"/>
-      <line fill="none" stroke="#00457c" x1="75" y1="350" x2="125" y2="150" stroke-width="20"/>
-      <line fill="none" stroke="#00457c" stroke-width="20" x1="125" y1="150" x2="175" y2="350"/>
-      <line fill="none" stroke="#00457c" stroke-width="20" x1="225" y1="150" x2="175" y2="350"/>
-      <line fill="none" stroke="#00457c" stroke-width="20" x1="275" y1="350" x2="225" y2="150"/>
+      <ellipse fill="#00457c" stroke="#00457c" stroke-width="8" cx="75" cy="350" rx="25" ry="25"/>
+      <ellipse fill="#00457c" stroke="#00457c" stroke-width="8" cx="175" cy="350" rx="25" ry="25"/>
+      <ellipse fill="#00457c" stroke="#00457c" stroke-width="8" cx="275" cy="350" rx="25" ry="25"/>
+      <ellipse fill="#00457c" stroke="#00457c" stroke-width="8" cx="125" cy="150" rx="25" ry="25"/>
+      <ellipse fill="#00457c" stroke="#00457c" stroke-width="8" cx="225" cy="150" rx="25" ry="25"/>
+      <line fill="none" stroke="#00457c" x1="75" y1="350" x2="125" y2="150" stroke-width="25"/>
+      <line fill="none" stroke="#00457c" stroke-width="25" x1="125" y1="150" x2="175" y2="350"/>
+      <line fill="none" stroke="#00457c" stroke-width="25" x1="225" y1="150" x2="175" y2="350"/>
+      <line fill="none" stroke="#00457c" stroke-width="25" x1="275" y1="350" x2="225" y2="150"/>
 
       <!-- X (border) -->
 <!--      <ellipse fill="#545454" stroke="#4d3826" stroke-width="8" cx="340" cy="250" rx="25" ry="25"/>
@@ -52,15 +52,15 @@
       <line fill="none" stroke="#4d3826" x1="460" y1="450" x2="400" y2="350" stroke-width="28"/>-->
 
       <!-- X -->
-      <ellipse fill="#576c7d" stroke="#545454" stroke-width="0" cx="340" cy="250" rx="25" ry="25"/>
-      <ellipse fill="#576c7d" stroke="#545454" stroke-width="0" cx="340" cy="450" rx="25" ry="25"/>
-      <ellipse fill="#576c7d" stroke="#545454" stroke-width="0" cx="400" cy="350" rx="25" ry="25"/>
-      <ellipse fill="#576c7d" stroke="#545454" stroke-width="0" cx="460" cy="250" rx="25" ry="25"/>
-      <ellipse fill="#576c7d" stroke="#545454" stroke-width="0" cx="460" cy="450" rx="25" ry="25"/>
-      <line fill="none" stroke="#576c7d" x1="340" y1="250" x2="400" y2="350" stroke-width="20"/>
-      <line fill="none" stroke="#576c7d" x1="460" y1="250" x2="400" y2="350" stroke-width="20"/>
-      <line fill="none" stroke="#576c7d" x1="340" y1="450" x2="400" y2="350" stroke-width="20"/>
-      <line fill="none" stroke="#576c7d" x1="460" y1="450" x2="400" y2="350" stroke-width="20"/>
+      <ellipse fill="#576c7d" stroke="#576c7d" stroke-width="8" cx="340" cy="250" rx="25" ry="25"/>
+      <ellipse fill="#576c7d" stroke="#576c7d" stroke-width="8" cx="340" cy="450" rx="25" ry="25"/>
+      <ellipse fill="#576c7d" stroke="#576c7d" stroke-width="8" cx="400" cy="350" rx="25" ry="25"/>
+      <ellipse fill="#576c7d" stroke="#576c7d" stroke-width="8" cx="460" cy="250" rx="25" ry="25"/>
+      <ellipse fill="#576c7d" stroke="#576c7d" stroke-width="8" cx="460" cy="450" rx="25" ry="25"/>
+      <line fill="none" stroke="#576c7d" x1="340" y1="250" x2="400" y2="350" stroke-width="25"/>
+      <line fill="none" stroke="#576c7d" x1="460" y1="250" x2="400" y2="350" stroke-width="25"/>
+      <line fill="none" stroke="#576c7d" x1="340" y1="450" x2="400" y2="350" stroke-width="25"/>
+      <line fill="none" stroke="#576c7d" x1="460" y1="450" x2="400" y2="350" stroke-width="25"/>
     </g>
   </g>
 </svg>
